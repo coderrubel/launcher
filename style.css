@@ -6,8 +6,12 @@ Tags: Launcher, Upcomming, Bulider
 description: This is Wordpres Launcher Web Site
 Taxt Domain: launcher
 */
-/*
-#fh5co-aside{
-    background-image: url(markup/images/img_bg_1_gradient.jpg);
+#fh5co-aside #fh5co-logo a{
+    text-decoration: none;
+    text-shadow: 2px 2px palevioletred;
+    letter-spacing: 5px;
+    text-transform: uppercase;
 }
-*/
+#fh5co-social li a{
+    color: #ccc;
+}

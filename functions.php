@@ -41,7 +41,7 @@ function fotter_social(){
             'description' => 'footer Social Manu',
             'after_widget'=> ' ',
             'before_widget'=> ' ',
-            'after_title' => ' ',
+            'after_title' => '</p> ',
             'before_title' => ' ',
         )
         );
